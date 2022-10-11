@@ -1,5 +1,5 @@
 # Monsters-Clickerdex
-A fun React project where different monsters change colors when clicked on them
+<h1>A fun React project where different monsters change colors when clicked on them</h1>
 
 
 ![image](https://user-images.githubusercontent.com/91401714/195212160-3249103e-f3d6-46f7-85ee-406f98297d62.png)
