@@ -2,7 +2,7 @@
 <h3>What I used:</h3>
 
 <p align="left">
-<a href="https://reactjs.org/" /></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> 
 
 
 <h2>A fun React project where different monsters change colors when clicked on them</h2>
