@@ -2,7 +2,7 @@
 <h3>What I used:</h3>
 
 <p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="![image](https://user-images.githubusercontent.com/91401714/195214134-31fe39b3-e4a3-4e69-8ca6-972f9b8117a3.png)" width="36" height="36" alt="React" /></a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="[![image](https://user-images.githubusercontent.com/91401714/195214134-31fe39b3-e4a3-4e69-8ca6-972f9b8117a3.png)](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg)" width="36" height="36" alt="React" /></a> 
 
 
 <h2>A fun React project where different monsters change colors when clicked on them</h2>
