@@ -1,4 +1,10 @@
 # Monsters-Clickerdex
+<h3>What I used:</h3>
+
+<p align="left">
+<a href="https://reactjs.org/" /></a> 
+
+
 <h2>A fun React project where different monsters change colors when clicked on them</h2>
 
 
