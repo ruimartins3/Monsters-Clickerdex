@@ -5,7 +5,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> 
 
 
-<h2>A fun React project where different monsters change colors when clicked on them</h2>
+<h3>A fun React project where different monsters change colors when clicked on them</h2>
 
 
 ![image](https://user-images.githubusercontent.com/91401714/195212160-3249103e-f3d6-46f7-85ee-406f98297d62.png)
